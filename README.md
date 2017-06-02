@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](http://mit-license.org)
 [![Platform](http://img.shields.io/badge/platform-ios-lightgrey.svg?style=flat)](https://developer.apple.com/resources/)
 
-TableCardView provides impactful TableView and interactive headerView according to scroll's coordinate with UITableViewController. The project is  useful for apps like 
+TableCardView provides impactful TableView and interactive headerView according to scroll's coordinate with UITableViewController that inspired by Ramotion. The project is  useful for apps like 
 menu, roadMap etc.
 
 ### Sample
