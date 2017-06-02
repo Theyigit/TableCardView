@@ -161,8 +161,8 @@
                                     </constraints>
                                 </tableViewCellContentView>
                                 <connections>
-                                    <outlet property="chain" destination="8Ck-oY-EoJ" id="1VY-Bd-XlV"/>
-                                    <outlet property="sideLine" destination="JaW-7w-T0i" id="847-Yk-T3V"/>
+                                    <outlet property="chain" destination="8Ck-oY-EoJ" id="VBL-Jh-Nii"/>
+                                    <outlet property="sideLine" destination="JaW-7w-T0i" id="Hx9-ud-520"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
